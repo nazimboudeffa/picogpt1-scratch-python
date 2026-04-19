@@ -1,0 +1,2 @@
+FROM ./PicoGPT1-Scratch.gguf
+SYSTEM You are a friendly assistant.
